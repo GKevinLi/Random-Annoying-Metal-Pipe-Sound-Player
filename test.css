@@ -1,0 +1,148 @@
+:root {
+    font-family: Inter, sans-serif;
+    font-feature-settings: 'liga' 1, 'calt' 1;
+    background : #bfbfbf; 
+}
+
+
+html
+{
+    width: 250px;  /* max: 800px */
+    height: 150px; /* max: 600px */
+}
+p {
+    font-size: 14;
+    font-family: Inter, sans-serif;
+    font-weight: 500;
+    line-height: 1.2;
+}
+span {
+    padding: -15px;
+    background : #2d2f31; 
+    color : white;
+    font-size : 1.5em;
+    font-variant : small-caps;
+    border: 2px solid black;
+    cursor : pointer;
+    display: block;
+    content: "+";
+}
+#title {
+    font-size: 18;
+    text-align: center;
+    font-weight: bold;
+    border-bottom: 3px solid black;
+    padding: 5px;
+    font-family: 'Montserrat';
+}
+#text {
+    font-size: 12;
+}
+#input{
+    text-align: left;
+    color : rgb(0, 0, 0);
+    font-size : 1em;
+    font-variant : normal;
+    font-family: Inter, sans-serif;
+    width: 80px;
+}
+
+
+#numInput {
+   
+    text-align: left;
+    color : rgb(0, 0, 0);
+    font-size : 1em;
+    font-variant : normal;
+    font-family: Inter, sans-serif;
+    width: 150px;
+}
+#numInput2 {
+   
+    text-align: left;
+    color : rgb(0, 0, 0);
+    font-size : 1em;
+    font-variant : normal;
+    font-family: Inter, sans-serif;
+    width: 150px;
+}
+
+#TestingText {
+    padding-bottom: -10px;
+}
+
+
+#EnterButton {
+    background-color:gainsboro;
+    font-size : 1em;
+    padding-top: -5px;
+    
+    font-variant : normal;
+    border: 2px solid black;
+    font-family: Inter, sans-serif;
+    
+}
+
+#EnterButton:hover {
+    
+    background-color:rgb(235, 234, 234);
+}
+#EnterButton:active {
+    
+    background-color:rgb(162, 161, 161);
+    transform: translateY(1px);
+}
+#EnterButton1 {
+    background-color:gainsboro;
+    font-size : 1em;
+    padding-top: 3px;
+    font-variant : normal;
+    border: 2px solid black;
+    font-family: Inter, sans-serif;
+}
+
+#EnterButton1:hover {
+    
+    background-color:rgb(235, 234, 234);
+}
+#EnterButton1:active {
+    
+    background-color:rgb(162, 161, 161);
+    transform: translateY(1px);
+}
+#EnterButton2 {
+    background-color:gainsboro;
+    font-size : 1em;
+    padding-top: 3px;
+    font-variant : normal;
+    border: 2px solid black;
+    font-family: Inter, sans-serif;
+}
+
+#EnterButton2:hover {
+    
+    background-color:rgb(235, 234, 234);
+}
+#EnterButton2:active {
+    
+    background-color:rgb(162, 161, 161);
+    transform: translateY(1px);
+}#EnterButton3 {
+    background-color:gainsboro;
+    font-size : 1em;
+    padding-top: 3px;
+    
+    font-variant : normal;
+    border: 2px solid black;
+    font-family: Inter, sans-serif;
+}
+
+#EnterButton3:hover {
+    
+    background-color:rgb(235, 234, 234);
+}
+#EnterButton3:active {
+    
+    background-color:rgb(162, 161, 161);
+    transform: translateY(1px);
+}
